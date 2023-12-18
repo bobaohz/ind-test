@@ -1,0 +1,2 @@
+http00.json: Get all offers
+http01.json: Get query offer by partNumber
