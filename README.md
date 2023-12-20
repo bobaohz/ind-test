@@ -39,4 +39,7 @@ if there are multiple offers are applicable for a given product: say N
 ## To be enhanced in the real world
 - support pagination for getAllOffers, getTimeTableProduct
 - return 404, 400 for related invalid/bad requests
+- A proposal of new archtecture
+
+  ![GitHub Image](/enent-driven-flow-for-price.jpg)
 
